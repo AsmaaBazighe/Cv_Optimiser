@@ -1,0 +1,14 @@
+streamlit
+transformers
+huggingface_hub
+torch
+sentence-transformers
+langchain
+chromadb
+PyPDF2
+python-dotenv
+gradio_client
+neo4j
+groq
+google-generative-ai
+streamlit
